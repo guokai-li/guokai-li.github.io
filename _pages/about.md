@@ -14,14 +14,14 @@ I am currently a third-year Ph.D. student at CUHK-Shenzhen, where I am fortunate
 ## Research Interest 
 I highly value and actively pursue research that is practical or insightful to industries:
 
-* Methodologies: LP-based online algorithm, approximate dynamic programming;
+* *Methodologies*: LP-based online algorithm, approximate dynamic programming;
 
-* Topics: revenue management, OM-marketing interface, sustainable operations.
+* *Topics*: revenue management, OM-marketing interface, sustainable operations.
 
 ## Education
-* The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen) 2020-present
+* The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), 2020-present
   * Ph.D. Student in Data Science
-  * Advisors: [Zizhuo Wang](https://mypage.cuhk.edu.cn/academics/wangzizhuo/) \& [Pin Gao](https://myweb.cuhk.edu.cn/gaopin)
+  * Advisors: [Zizhuo Wang](https://mypage.cuhk.edu.cn/academics/wangzizhuo/) & [Pin Gao](https://myweb.cuhk.edu.cn/gaopin)
 * Hong Kong University of Science and Technology (HKUST), 2022
   * Visiting Postgraduate Student
 * Xi'an Jiaotong University (XJTU), 2016-2020
