@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Guokai Li"
 title_separator          : "&#124;"
 name                     : &name "Guokai Li"
-description              : &description "Third-year Ph.D. student@CUHK-Shenzhen"
+description              : &description "Third-year Ph.D. Student@CUHK-Shenzhen"
 url                      : https://guokai-li.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "guokai-li.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Guokai Li (李国凯)"
   avatar           : "small_photo.png"
-  bio              : "third-year Ph.D. student@CUHK-Shenzhen"
+  bio              : "Third-year Ph.D. Student@CUHK-Shenzhen"
   location         : "Shenzhen, Guangdong, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
