@@ -8,9 +8,9 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Guokai Li"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Guokai Li"
-description              : &description "3rd-year Ph.D. student@CUHK-Shenzhen"
+description              : &description "Third-year Ph.D. student@CUHK-Shenzhen"
 url                      : https://guokai-li.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "guokai-li.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Guokai Li"
   avatar           : "small_photo.png"
-  bio              : "3rd-year Ph.D. student@CUHK-Shenzhen"
+  bio              : "third-year Ph.D. student@CUHK-Shenzhen"
   location         : "Shenzhen, Guangdong, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
