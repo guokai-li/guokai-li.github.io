@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Guokai Li"
-title_separator          : "|"
+title_separator          : "\|"
 name                     : &name "Guokai Li"
 description              : &description "Third-year Ph.D. student@CUHK-Shenzhen"
 url                      : https://guokai-li.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Guokai Li"
+  name             : "Guokai Li (李国凯)"
   avatar           : "small_photo.png"
   bio              : "third-year Ph.D. student@CUHK-Shenzhen"
   location         : "Shenzhen, Guangdong, China"
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "jacky-guokai-li"
+  orcid            : "https://orcid.org/0000-0001-7073-9802"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  cv               : "CV.pdf"
 
 
 # Reading Files
