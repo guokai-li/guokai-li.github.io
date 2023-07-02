@@ -8,4 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am still working on the website construction. 
+I am currently a third-year Ph.D. student at CUHK-SZ, where I am fortunate to be supervised by Prof. Zizhuo Wang and Prof. Pin Gao. I highly value and actively pursue research that is practical or insightful to industries:
+
+--Methodologies: LP-based online algorithm, approximate dynamic programming;
+--Topics: revenue management, OM-marketing interface, sustainable operations.
