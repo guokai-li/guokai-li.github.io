@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Guokai Li"
-title_separator          : "\|"
+title_separator          : "|"
 name                     : &name "Guokai Li"
 description              : &description "Third-year Ph.D. student@CUHK-Shenzhen"
 url                      : https://guokai-li.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
