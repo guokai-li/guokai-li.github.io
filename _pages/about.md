@@ -30,3 +30,4 @@ I highly value and actively pursue research that is practical or insightful to i
   * Exchange at IMSE Department
 
 ## News
+* Jul 3, 2023, Guokai's website was successfully built!
