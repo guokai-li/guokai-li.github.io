@@ -22,11 +22,11 @@ I highly value and actively pursue research that is practical or insightful:
 * The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), 2020-present
   * Ph.D. Student in Data Science
   * Advisors: [Zizhuo Wang](https://mypage.cuhk.edu.cn/academics/wangzizhuo/) &amp; [Pin Gao](https://myweb.cuhk.edu.cn/gaopin)
-* Hong Kong University of Science and Technology (HKUST), 2022
+* Hong Kong University of Science and Technology (HKUST), 2022 Fall
   * Visiting Postgraduate Student
 * Xi'an Jiaotong University (XJTU), 2016-2020
   * Bachelor in Industrial Engineering
-* The University of Hong Kong (HKU), 2019
+* The University of Hong Kong (HKU), 2019 Spring
   * Exchange at IMSE Department
 
 ## News
