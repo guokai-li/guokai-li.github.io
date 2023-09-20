@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year Ph.D. student at The Chinese University of Hong Kong, Shenzhen (CUHKSZ), where I am fortunate to be supervised by [Prof. Zizhuo Wang](https://mypage.cuhk.edu.cn/academics/wangzizhuo/) and [Prof. Pin Gao](https://myweb.cuhk.edu.cn/gaopin). 
+I am currently a fourth-year Ph.D. candidate at The Chinese University of Hong Kong, Shenzhen (CUHKSZ), where I am fortunate to be supervised by [Prof. Zizhuo Wang](https://mypage.cuhk.edu.cn/academics/wangzizhuo/) and [Prof. Pin Gao](https://myweb.cuhk.edu.cn/gaopin). 
 
 
 ## Research Interest 
@@ -30,4 +30,4 @@ I highly value and actively pursue research that is practical or insightful:
   * Exchange at IMSE Department
 
 ## News
-* Jul 3, 2023, Guokai's website was successfully built!
+* Jul 3, 2023, my website was successfully built!
