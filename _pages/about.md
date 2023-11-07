@@ -29,5 +29,3 @@ I highly value and actively pursue research that is practical or insightful:
 * The University of Hong Kong (HKU), 2019 Spring
   * Exchange at IMSE Department
 
-## News
-* Jul 3, 2023, my website was successfully built!
