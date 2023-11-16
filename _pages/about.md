@@ -28,5 +28,3 @@ I highly value and actively pursue research that is practical or insightful:
   * Bachelor in Industrial Engineering
 * The University of Hong Kong (HKU), 2019 Spring
   * Exchange at IMSE Department
-
-[![Hits](https://hits.sh/guokai-li.github.io.svg)](https://hits.sh/guokai-li.github.io/)
