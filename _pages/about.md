@@ -29,4 +29,6 @@ I highly value and actively pursue research that is practical or insightful:
 * The University of Hong Kong (HKU), 2019 Spring
   * Exchange at IMSE Department
 
-<a href="https://clustrmaps.com/site/1bxdq"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=vISwBntjskXSdSHQjfYLIQ9Mk_R_ZJckmLQJdUvLMO8&cl=ffffff" /></a>
+<!-- <a href="https://clustrmaps.com/site/1bxdq"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=vISwBntjskXSdSHQjfYLIQ9Mk_R_ZJckmLQJdUvLMO8&cl=ffffff" /></a> -->
+
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=vISwBntjskXSdSHQjfYLIQ9Mk_R_ZJckmLQJdUvLMO8&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353"></script>
